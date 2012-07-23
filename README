@@ -1,0 +1,7 @@
+Applet - Run multiple versions of an app.
+
+An applet is an instance of an app. Identifed by an id.
+
+Typical the id is coming from page tab on facebook.
+So you have an app, lets say a 'Sweepytake' thats hosted somewhere. 
+A Sweepstake running inside this specifc tab would then be an applet.

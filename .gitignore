@@ -1,0 +1,8 @@
+.nodexenv
+nodex
+node_modules/
+*.swp
+.DS_Store
+public/css/*.css
+public/css/themes/*.css
+*.un~
